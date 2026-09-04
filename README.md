@@ -11,4 +11,4 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### 📊 GitHub 统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hezhengxing98&show_icons=true&theme=radical)
