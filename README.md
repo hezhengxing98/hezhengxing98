@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 我是 和正行
 
-<!--
-**hezhengxing98/hezhengxing98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 我目前正在从事前端 / 全栈开发
+- 🌱 正在学习深入 Vue3 / TypeScript / AI 应用
+- 💬 可以和我交流前端技术、项目架构
+- 📫 邮箱联系方式：3100606632@qq.com
 
-Here are some ideas to get you started:
+#### 🛠 技术栈
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📊 GitHub 统计
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
