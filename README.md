@@ -1,4 +1,4 @@
-### Hi there 👋 我是 和正行
+### Hi there 👋 我是 hezhengxing
 
 - 🔭 我目前正在从事前端 / 全栈开发
 - 🌱 正在学习深入 Vue3 / TypeScript / AI 应用
